@@ -1,0 +1,621 @@
+{"pattern": [{"TEXT":"alien planet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"asteroid"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"atmosphere"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"base"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"black hole"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"colony"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"comet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"constellation"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cosmos"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"exoplanet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"galaxy"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"gravity"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"habitable zone"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"haven"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hyperspace"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"milky way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mining station"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"moon"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"multiverse"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"nebula"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"orbit"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"outpost"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"planet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"port"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"quasar"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"refueling station"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"research station"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"settlement"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"solar system"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space agency"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space city"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space cloud"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space debris"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space dust"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space elevator"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space exploration"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space fog"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space habitat"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space junk"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space rock"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space station"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space storm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"space travel"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"spacecraft"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"spaceport"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"spaceship"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"star"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"star system"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sun"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"supernova"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"surface"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"universe"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wormhole"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"acropolis"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"alley"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"almond tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"alp"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"alpine hut"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"alpine path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"apple tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"apricot tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"arcade"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"architecture"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"arena"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"armchair"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"army road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"art museum"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ash tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"asphalt"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"avenue"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"aviary"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"back balcony"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"back garden"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"back patio"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"back porch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"back terrace"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"back veranda"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"backyard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"backyard garden"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"backyard patio"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"backyard porch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"balcony"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"banana tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bar"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bark"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"barn"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"baroque style"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"barrack"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"barracks"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"base"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bath"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bathroom"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bathtub"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bay window"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bazaar"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"beacon"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bedroom"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bee hive"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bee house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bee stand"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"beech tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bench"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"birch tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bivouac"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"blossom"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"board shack"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bookcase"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"boulevard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"branch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bud"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"building"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"building complex"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"building ensemble"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bulb"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bus"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bus stop"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"bush"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cabin"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cabinet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cactus"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"campsite"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"canal"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"candle"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"candle holder"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"candle lantern"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"candle stand"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"candleabra"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"candlestick"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"caravan court"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"carnation"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"castle"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"castle courtyard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"castle tower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cathedral"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cedar tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ceiling"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ceiling light"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chaff"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chair"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chalet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chancellery"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chandelier"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cherry tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chestnut tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chicken coop"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chicken house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"chimney"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"church"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"church tower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cider"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cider mill"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"circle"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"circle arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"citadel"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cities"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"city"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"city park"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"climbing trail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"closet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"clover"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"coconut tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cold frame"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"column"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"column span"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"columned walkway"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"compost heap"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"concrete fortress"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"corridor"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cottage"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"country house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"courtyard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cowshed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"creeper"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"creeper plant"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cross bearer"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cross nave"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cross-country ski trail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"crossing"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"crown"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cultivated area"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"cypress tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dairy"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dairy farm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"daisy"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dam"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dandelion"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"defense bay"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"department store"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"desk"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dining room"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"district"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dog kennel"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"door"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"downtown"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"drawer"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dung"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dung bed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dung heap"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"dung pile"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"elevator"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"elm tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"estate"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"excavation pit"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"facade"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fallow"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fallow land"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"farm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"farm shop"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"farmer's parlor"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"farmhouse"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"feeding place"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"feeding trough"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fence"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fern"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"field"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"field block"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"field edge"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"field farming"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"field path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"field row"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"field soil"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fir tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fire hydrant"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fireplace"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"first floor"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"floor"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"floor lamp"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"flower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"flower bed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"footbridge"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"footpath"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"forest farm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fortress"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"foundation"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fountain"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front balcony"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front garden"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front patio"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front porch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front terrace"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front veranda"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front yard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front yard garden"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front yard patio"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"front yard porch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"fungus"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"furrow"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"gable"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"gable arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"gallery"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"garden"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"garden bed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"garden fence"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"garden house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ghetto"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"goat bridge"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"goat stall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grain field"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grape branch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grape bush"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grape tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grape trunk"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grape twig"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grapevine"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grass"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"grassland"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"green area"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"greenhouse"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ground preparation"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"group farm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"half-door"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hall house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hamlet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hammam"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"harvest"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hay bale"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hayloft"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"haystack"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"herb garden"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"high ground floor"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hiking trail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hinge door"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"housing complex"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"housing estate"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"hut"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"inn"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"irrigation system"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ivy"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"keep"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"key layer"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"khan"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"kitchen"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"knee wall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"knot"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ladder path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lamp"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lamp post"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"larch tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"large housing estate"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lawn"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lawn area"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"leaf"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lemon tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"library"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lichen"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"limb"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"living room"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"local pub"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lodge"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"loft stall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"loggia"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"lower village"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"main tower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mango tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manor farm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manor house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manure"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manure barrel"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manure heap"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manure hole"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manure pile"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"manure trough"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"maple tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"market"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"market place"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"market square"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"market stall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"market street"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"market town"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"marketplace"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"marsh"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"masonry"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadow"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadow path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadow road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadow way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadowland"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadowland path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadowland road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"meadowland way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"medieval town"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"memorial"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"metropolis"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mezzanine"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"military road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mill"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mill path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mill road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mill way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"millstone"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mine"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mining"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mining area"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mining path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mining road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mining way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mirror"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"monastery"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"monastery brick"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"monastery courtyard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"monastery tower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"monument"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"moss"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain farm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain hut"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain pasture"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain railway"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain trail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain village"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mountain way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mowing"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mowing meadow"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"multipass arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"museum"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"museum courtyard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"museum tower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"mushroom"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"music pavilion"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"national park"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"nature reserve"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"nature trail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"nave"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"neighborhood"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"neighborhood path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"neighborhood road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"neighborhood way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"neighboring field"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"nettle"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"new building"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"nobleman house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"nursery bed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"oak tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"oat field"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"oculus"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"old town alley"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"olive tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"open land"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"opera"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"orange tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"orchard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"orchid"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"organ loft"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ottoman"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"outskirts"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"paddock"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"palace"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"palazzo"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"palm"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"palm tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"panel house settlement"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"park"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"parking lot"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pasture"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pasture ground"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pasture place"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pasture way"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"patio"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pavilion"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"peach tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pear tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pedestal"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"people's house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"picking basket"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"piles"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pilgrimage trail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pine"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pine tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pinnacle"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"place"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"plank path"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"plantation"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"planting"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"planting area"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"planting site"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pleated"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"plow"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"plum tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pointed arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"poorhouse"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"poplar tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"porch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"port"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"poster"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"priest's roof"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"projection"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"promenade"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"pub"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"quarter"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"quay"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"race track"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"rail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"rail line"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"rain"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"raking"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ramp"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"rate arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ravine"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"rebate"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"reef"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"residence"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"residential area"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"residential silo"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"residential tower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"restaurant"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ridge"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"riding stable"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"river"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"road"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"rock"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"roof"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"room"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"root"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"rose"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"round arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"round window"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"roundabout"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"route"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"ruin"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"runoff channel"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"saddle arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sand"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"savanna"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"scaffold viaduct"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"schools"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sconce"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sea"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"seashore"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"seaweed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"seed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sewer"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shack"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shelf"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shelter"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shoot"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shop window"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shore"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"shrub"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sidewalk"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sierra"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sill"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sink"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sinkhole"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sky"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"skyscraper"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"skyscraper settlement"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"slope"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"small bridge"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"snow"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"socket"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sofa"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"soil"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"span arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"spring"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"sprout"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"spruce tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"square"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stable"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stackyard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stage"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"staircase"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stairs"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"station"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stem"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"steppe"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stool"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stream"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stream land"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"street"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"street lamp"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"street lighting"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"streetcar"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"streets"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"structure"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"stud"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"studio"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"suburb"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"subway"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"summit"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"summit cross"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"suspended arch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"swamp"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"synagogue"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"table"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tableland"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tarmac"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tavern"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"telegraph pole"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"temple"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"terrace"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"theater"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"thicket"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"thorn"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"thoroughfare"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"threshing floor"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"throne"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tide"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"toilet"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tomb"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tower"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"town"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"town hall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"traffic"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"trail"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tram"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"transept"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"traverse"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"treasure trove"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tree house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tropical house"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"trunk"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"tundra"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"twig"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"underpass"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"underroof"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"university"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"upper floor"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"urban planning"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"valley"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"vault"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"vegetable bed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"vegetable garden"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"vegetable patch"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"veld"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"veranda"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"village"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"vine"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"vineyard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"vivarium"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"volcano"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wall lamp"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wardrobe"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"water hydrant"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"waterfall"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"watering hole"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"waterway"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"weed"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wetland"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wharf"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wilderness"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"willow"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"willow tree"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"window"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wood"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"wooden pier"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"woodland"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"woodpile"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"yard"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"yucca"}], "label":"SPATIAL_TERM"}
+{"pattern": [{"TEXT":"zoo"}], "label":"SPATIAL_TERM"}
